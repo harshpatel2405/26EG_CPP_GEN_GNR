@@ -1,0 +1,43 @@
+CPP
+---
+
+Advanced Version Of C
+C +  OOPS -- object oriented programming concepts
+
+OOPS 
+--> class -- advanced structure 
+
+structure --> variables (properties) (data members)
+class -> variables(properties) + behaviour (methods / member functions) + access level 
+--> object
+
+OOPS Pillars 
+------------
+1. Inheritance 
+2. Polymorphism
+3. Encapuslation
+4. Abstraction 
+
+
+Aggregation 
+Exception Handling
+namespace 
+templates 
+
+datatype        variable
+struct Employee e;
+
+class Student 
+
+datatype variable
+Student s;
+
+<===============================================>
+Why there is no header file in #include
+<===============================================>
+
+
+Datatypes 
+---------
+bool --> true,  false 
+string
