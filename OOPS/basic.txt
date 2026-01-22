@@ -1,0 +1,14 @@
+OOPS -- Object Oriented programming Concepts
+
+Real World Problems
+
+Property -- data member / variables 
+behavior -- methods  , function
+
+class  
+
+object
+
+
+Animal  Dog
+Tea     Waghbakri Tea
