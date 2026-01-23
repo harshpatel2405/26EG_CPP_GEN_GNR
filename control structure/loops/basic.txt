@@ -1,0 +1,50 @@
+Loops
+-----
+
+for(initialisation ; condition ; inc /dec)
+{
+    operational part
+}
+
+initialisation
+while(condition)
+{   
+    operational part 
+    inc/dec
+}
+
+
+initialisation
+do
+{   
+    operational part 
+    inc/dec
+}while(condition);
+
+Tasks
+-----
+1. print 1 to n 
+2. sum of 1 to n
+3. multiplication of 1 to n
+4. odd-even print and sum
+5. Average of 1 to n 
+6. Factorial
+7. multiplication Table of n
+8. prime 
+9. Perfect
+10. Amicable Numbers
+
+Digits 
+------
+1. Count 
+2. print
+3. Sum 
+4. multiplication
+5. Odd-even Print and sum
+6. reverse 
+7. Palindrome 
+8. krishnamurthy 
+9. Armstrong
+10. Digital Root
+11. Harshad Number 
+12. Spy Number 
