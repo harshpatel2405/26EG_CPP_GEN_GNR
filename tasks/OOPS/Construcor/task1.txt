@@ -1,0 +1,12 @@
+1. Create a class Coffee with 5 parameters
+    a. create a default constructor and set default values for all
+    b. create a parameterized constructor and take values from user
+    c. Create a copy construcor and copy only three values
+
+    d. create a calculateRevenue method
+    e. create a methd:\Royal Sessions\GNR\25E_CLUB_EVENING\25E_CLUB_EVENING_GNR\25E_Club_Evening_GNR\Practice\Constructor_Task.pdfod named displayData to display all the results
+
+In main:
+    1. create 3 objects each for 1 constructor
+    2. calculate Revenue for each object
+    3. call displayData method for each object

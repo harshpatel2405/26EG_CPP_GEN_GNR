@@ -1,0 +1,19 @@
+constructor
+-----------
+It is a e - Special Method
+
+1. No return type
+2. Constructor name is same as class name
+
+class Box
+{
+    Box()
+    {
+
+    }//default constructor
+
+    Box(int a, int b)
+    {
+
+    }//parameterized constructor
+}

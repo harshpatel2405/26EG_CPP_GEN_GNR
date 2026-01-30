@@ -1,0 +1,6 @@
+Static 
+------
+I shares same memory between different calls
+
+
+static
