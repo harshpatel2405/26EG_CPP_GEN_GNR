@@ -17,6 +17,8 @@ int main()
 {
     School s, s1, s2;
     s.NumberOfStudents();
+    s1.NumberOfStudents();
+    s2.NumberOfStudents();
 
     cout << "Number Of Students Added : " << s.count;
     return 0;

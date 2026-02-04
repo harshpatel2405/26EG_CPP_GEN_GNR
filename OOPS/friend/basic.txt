@@ -1,0 +1,3 @@
+Friend 
+------
+friend void inputData();
