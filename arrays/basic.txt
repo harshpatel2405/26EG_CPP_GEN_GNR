@@ -1,0 +1,46 @@
+Array 
+-----
+Array is a Derived datatype which can allow storing muliple element of same data type
+
+int arr;
+int arr[];
+
+int array[]; // if no size then values
+int array1[5]; // size -> 1. Provide values (initialise)
+               // size -> 2. Provide values (after declaring variable)
+
+it is stored in contigous memory
+
+
+Array 
+-----
+1. Print 
+2. Sum 
+3. Multiplication
+4. Odd_even (print and sum)
+5. Find max and min
+6. Sort the array 
+7. Searching (linear and binary)
+
+8. Check which array element is prime
+9. Check which array element is perfect
+10. Check which array element is armstrong
+11. Check which array element is Disarium
+12. Check which array element is Harshad Number
+13. Check which array element is Digital Root
+14. Check which array element is Strong
+15. Check which array element is Spy
+16. Check which array element pairs are amicable
+
+2D Array 
+-------
+Array 
+-----
+1. Print  (Normal and matrix)
+2. Sum    (all , row , column )
+3. Multiplication
+4. Odd_even (print and sum)
+5. Find max and min 
+6. Sort the array 
+7. Searching (linear and binary)
+8. Diagonals (print and sum)
