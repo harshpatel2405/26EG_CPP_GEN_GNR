@@ -1,4 +1,7 @@
- // for (int i = 0; i < (r * c); i++)
+ // for (int index = 0; index < r; index++)
     // {
-    //     cout << clean[i] << "\t";
+    //     // arr[i][index] = 0; // 10,11,12,13
+    //     // 01 , 11 , 21
+    //     displayData();
+    //     cout << endl;
     // }
