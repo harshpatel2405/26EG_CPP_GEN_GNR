@@ -1,0 +1,12 @@
+Function
+--------
+A reusable block of code
+
+Normal Function
+Nested Function
+    Recursion(Function Calling itself)
+
+1. Function Calling -- inside main function / any other function (no returnType , or datatype is needed)
+2. Function Declaration -- it is above main function
+3. Function Definition -- above and below main function
+ 
