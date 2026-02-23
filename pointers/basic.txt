@@ -1,0 +1,16 @@
+Pointer 
+-------
+Pointer is a datatype (derived) which holds refernce(address) of another variable 
+
+Symbol : *
+
+int *ptr;
+int a = 12; ;// 100020
+
+ptr = &a;  // 100020
+
+*ptr = * (100020)
+*ptr  = 12
+
+
+Task : Swap two variables without using third variable and use pointers
