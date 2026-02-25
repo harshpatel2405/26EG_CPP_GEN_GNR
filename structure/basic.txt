@@ -1,0 +1,18 @@
+Structure 
+---------
+
+IT is a user defined Data type....
+
+
+struct Name a;
+
+
+Can we return struct Name and if yes , then what will be the return type of the structure 
+and if no , why no 
+
+
+normal variable -- copy   (not gets updated in memory)
+Array --> address of 0th index ( gets updated in memory)
+structure --> value
+
+local variable &     *
