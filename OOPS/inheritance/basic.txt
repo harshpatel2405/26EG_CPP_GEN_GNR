@@ -1,0 +1,53 @@
+Inheritance 
+-----------
+Accessing properties/behaviours of base/parent class
+
+class A 
+{
+protected:
+    int abc;
+};
+
+class B : protected A 
+{
+    void show()
+    {
+        cout << abc;
+    }
+}
+
+1st -> parent / base 
+2nd + -> derived / child 
+
+1. Single (one parent -> one child)
+
+    A
+    |
+    B
+
+2. Multilevel  (base 1 -> derived 1-> derived 2)
+    A
+    |
+    B
+    | 
+    C
+
+3. Multiple   - multiple parents 
+    A   B 
+    \  /
+      C
+
+4. Hierarchical  (single parent multiple child)
+
+      A 
+     / \
+    B   C
+
+5. Hybrid  (combination of all/ any of the  above inheritance)
+Diamond Problem
+
+      A 
+     / \
+    B   C
+     \ /
+      D
