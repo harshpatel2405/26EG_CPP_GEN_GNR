@@ -1,0 +1,17 @@
+Combination of all types of inheritance
+
+MultiLevel + Multiple = Hybrid 
+Hierarchical + MultiLevel = Hybrid 
+
+        A 
+       / \
+      B   C
+       \ / 
+        D
+
+        Diamond Problem 
+        ---------------
+        Duplicate - Ambigous
+        Hierarchical Inheritance - A -> B  , C
+        MultiLevel - A  , B , D   -> A , C, D
+        Multiple - B , C -> D
