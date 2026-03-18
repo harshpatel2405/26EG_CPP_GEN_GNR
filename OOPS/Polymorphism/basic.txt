@@ -1,0 +1,30 @@
+Polymorphism
+------------
+One name many forms 
+
+1. Compile Time
+    Overloading - It is within same class
+        a. method
+            void add();
+            void add(int a);
+            void add(float a);
+            void add(float a , int a);
+            void add(float a , float a);
+            void add(int a , int a);
+
+        b. Constructor (Class Name Demo)
+            Demo();
+            Demo(int a);
+            Demo(float a);
+            Demo(int a, int b)
+
+        c. Operator
+            any operator -> value with value
+            any operator -> Object with Object
+                         -> object with value
+
+                         -> value with Object
+
+                    void , int , float, Class 
+2. Run Time
+    Overriding - is within different class
