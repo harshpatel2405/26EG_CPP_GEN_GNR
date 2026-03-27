@@ -1,0 +1,14 @@
+Templates
+---------
+addition function 
+int , float , double 
+
+int , int 
+int , float 
+float , int 
+float , float
+
+Types 
+-----
+1. Function Template
+2. Class Template
