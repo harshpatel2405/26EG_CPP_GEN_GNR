@@ -12,7 +12,6 @@ public:
 
 int main()
 {
-
     MyException m;
     try
     {

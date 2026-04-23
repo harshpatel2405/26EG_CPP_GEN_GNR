@@ -1,0 +1,27 @@
+function()
+{
+    try
+    {
+    
+    }catch()
+    {
+        
+    }
+}
+
+main()
+{
+    try
+    {
+        try{
+
+        }
+        catch()
+        {
+            
+        }
+    }catch()
+    {
+
+    }
+}
